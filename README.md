@@ -3,7 +3,7 @@ Este pacote lida com operações relacionadas aos alunos. Ele inclui as seguinte
 
 - **Exclusão de um aluno e suas matrículas associadas**: Permite excluir um aluno do sistema e remover as matrículas associadas a ele.
 - **Listagem de alunos maiores de 18 anos**: Exibe os alunos que têm mais de 18 anos, incluindo seus nomes e datas de nascimento.
-- **Listagem de alunos por curso**: Permite listar os alunos matriculados em um curso específico, dado seu `id_curso`.
+- **Listagem de alunos por curso**: Permite listar os alunos matriculados em um curso específico, dado seu `id_curso´.
 
 ### **PKG_DISCIPLINA**: 
 Este pacote é responsável por manipular as disciplinas. As funcionalidades incluem:
